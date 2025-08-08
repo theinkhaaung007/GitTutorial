@@ -23,3 +23,7 @@ ul li {
     color: white;
     list-style: none;
 }
+
+main p {
+    padding: 10px;
+}
