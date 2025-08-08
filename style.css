@@ -1,9 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    background-color: black;
+    cursor: pointer;
+}
+
+header nav {
+    background-color: aqua;
+    padding: 20px;
 }
 
 header nav ul {
     display: flex;
     flex-direction: row;
-    gap: 20px;
+    gap: 15px;
+}
+
+ul li {
+    color: white;
+    list-style: none;
 }
