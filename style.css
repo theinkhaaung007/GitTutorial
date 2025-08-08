@@ -23,3 +23,12 @@ ul li {
     color: white;
     list-style: none;
 }
+
+footer {
+    padding: 20px;
+    background-color: aqua;
+}
+
+footer p {
+    color: white;
+}
